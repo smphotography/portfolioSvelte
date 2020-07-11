@@ -112,7 +112,7 @@
 </div>
 <div style="" class="backgroundGray majorSizeAbout w3-padding-64" id="about">
    <h1 class="w3-text-white w3-center fontAbout">About</h1>
-   <h4 class="w3-text-white w3-center padding-left-about w3-center">I'm Seth Morton, Webstack developer. I started programming 4 years ago, when I couldn't pay the 35$ per month on Wix to create a website showcasing and selling my photography. <br><br> When I started programming, it was frustrating. I hadn't done anything like it before, everything was new to me! <br><br> But I eventually fell in love with it, and the ability to create whatever I could imagine and have the whole world be able to access it immediatety. <br><br>Since then, I have worked on many projects and have gained valuable experience and knowledge. My goal with a website is to make the code as fast and as elegant as possible, and I'm completely open to learning any new language or framework that helps that goal. <br><br> I
+   <h4 id="contact" class="w3-text-white w3-center padding-left-about w3-center">I'm Seth Morton, Webstack developer. I started programming 4 years ago, when I couldn't pay the 35$ per month on Wix to create a website showcasing and selling my photography. <br><br> When I started programming, it was frustrating. I hadn't done anything like it before, everything was new to me! <br><br> But I eventually fell in love with it, and the ability to create whatever I could imagine and have the whole world be able to access it immediatety. <br><br>Since then, I have worked on many projects and have gained valuable experience and knowledge. My goal with a website is to make the code as fast and as elegant as possible, and I'm completely open to learning any new language or framework that helps that goal. <br><br> I
       If you want to hire me or just to talk, <a href="mailto:smphotography39@gmail.com">Contact Me</a>
    </h4>
 </div>
@@ -151,21 +151,37 @@
    }
    .gridContainer{
    display: grid;
-   grid-template-rows: repeat(3, .5fr);
-   grid-template-columns: 120px repeat(3, .5fr);
+   grid-template-rows: repeat(2, .5fr);
+   grid-template-columns: 120px repeat(2, .5fr);
    grid-gap: 15px;
    width: 100%;
-   height: 100%;
+   height: 60%;
    justify-content: center;
+   }
+    .gridContainerMajor{
+     height: 30% !important;
    }
    .darkGray {
    height: 40vh;
    }
    }
+    @media only screen and (max-width: 400px) {
+      .darkGray {
+       height: 100vh !important;
+       }}
    @media only screen and (max-width: 600px) {
    .majorSizeAbout {
    height: 180vh !important ;
    width: 100%;
+   }
+   .fontMajorProject{
+     padding-left: 0em;
+   }
+   h5{
+     font-size: .5rem  !important
+   }
+   .fontLanguage {
+     padding-left:0em!important
    }
    }
    @media only screen and (max-width: 750px) and (min-width: 600px){
@@ -181,17 +197,11 @@
    height: 140vh ;
    width: 100%;
    }
+
    .padding-left-about{
    padding-left: 0em !important
    }
-   .gridContainer{
-   display: grid;
-   grid-template-rows: repeat(3, .5fr);
-   grid-template-columns: 120px repeat(1, .5fr);
-   grid-gap: 15px;
-   width: 100%;
-   height: 100%;
-   }
+
    .padding-left {
    padding-left: 1rem;
    }
@@ -379,7 +389,7 @@
    .fontMajorProject{
    font-size: 5vw;
    padding-left: 1.5rem;
-   padding-bottom: 1.5rem
+   padding-bottom: 1.5rem;
    }
    .gridContainerMajor {
    display: grid;
@@ -395,13 +405,14 @@
    width: 100%;
    }
    @media only screen and (max-width: 800px)  {
+
    .gridContainerMajor{
    display: grid;
    grid-template-rows: repeat(3, .5fr);
    grid-template-columns: 120px repeat(1, .5fr);
    grid-gap: 15px;
    width: 100%;
-   height: 100%;
+   height: 50%;
    }
    }
    .padding-left-about{
