@@ -7,7 +7,7 @@
          <img src="https://images.vexels.com/media/users/3/166383/isolated/preview/6024bc5746d7436c727825dc4fc23c22-html-programming-language-icon-by-vexels.png" style="width: 22vw; height: 1fr;padding-top: 2rem" alt="">
          <div class="overlay">
             <div class="text">
-               <h5 style="font-size:1vw;">Years of experience: 4 <br> HTML/CSS were the two first langauges I started programming with, and I have worked with both of them on close to every project I've done</h5>
+               <h5 >Years of experience: 4 <br> HTML/CSS were the two first langauges I started programming with, and I have worked with both of them on close to every project I've done</h5>
             </div>
          </div>
       </div>
@@ -15,7 +15,7 @@
          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/480px-JavaScript-logo.png" style="width: 22vw; height: 1fr;padding-top: 1rem" alt="">
          <div class="overlay">
             <div class="text">
-               <h5 style="font-size:1vw;">Years of experience: 3<br> I have used JS for almost every project I've worked on. I love JS because of it's versitily across both ends (front and back) and how well supported it is across all platforms</h5>
+               <h5 >Years of experience: 3<br> I have used JS for almost every project I've worked on. I love JS because of it's versitily across both ends (front and back) and how well supported it is across all platforms</h5>
             </div>
          </div>
       </div>
@@ -23,7 +23,7 @@
          <img src="https://cdn.iconscout.com/icon/free/png-512/vue-282497.png" style="width: 22vw; height: 1fr; padding-top: 2rem" alt="">
          <div class="overlay">
             <div class="text">
-               <h5 style="font-size:1vw;">Years of experience: 1<br> I used Vue for my <a href="borderdashboard.sierrasp">Border Dashboard</a> project, in which I learned as I made mistakes. Vue is an incredible framework, and one that I use often</h5>
+               <h5 >Years of experience: 1<br> I used Vue for my <a href="borderdashboard.sierrasp">Border Dashboard</a> project, in which I learned as I made mistakes. Vue is an incredible framework, and one that I use often</h5>
             </div>
          </div>
       </div>
@@ -31,7 +31,7 @@
          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1200px-Svelte_Logo.svg.png" style="width: 22vw; height: 1fr; padding-top: 1rem;" alt="">
          <div class="overlay">
             <div class="text">
-               <h5 style="font-size:1vw;">Years of experience: 1<br> Svelte is my current favorite framework. I love everything about it, from its gentle learning curve, to its incredible compiler. This website was made in Svelte!</h5>
+               <h5 >Years of experience: 1<br> Svelte is my current favorite framework. I love everything about it, from its gentle learning curve, to its incredible compiler. This website was made in Svelte!</h5>
             </div>
          </div>
       </div>
@@ -39,15 +39,15 @@
          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Antu_mongodb.svg/1200px-Antu_mongodb.svg.png" style="width: 22vw; height: 1fr; padding-top: 2rem;" alt="">
          <div class="overlay">
             <div class="text">
-               <h5 style="font-size:1vw;">Years of experience: 0.5<br> I love Mongo DB because of how powerful it is and how simple it is for a JS devloper like myself to use it</h5>
+               <h5 >Years of experience: 0.5<br> I love Mongo DB because of how powerful it is and how simple it is for a JS devloper like myself to use it</h5>
             </div>
          </div>
       </div>
       <div class=" container item6  backgroundGray">
-         <img src="https://lh3.googleusercontent.com/proxy/Ea6tI0xkirdPJfFuiFQfwybKM_wo-p1UpG-Hhq8AffjhW0AEu0VegEAIJZBjiPzpSRjK_i9ocxz5PoWxCgzMN20m7kAz07Wlkt5ORTuoR4GGjJP3wipQ2wotZ1fdkmsHqwk5EAHI" style="width: 22vw; height: 1fr; padding-top: 4rem" alt="">
+         <img src="https://sdtimes.com/wp-content/uploads/2016/02/0211.sdt-express-short.png" style="width: 22vw; height: 1fr; padding-top: 6em" alt="">
          <div class="overlay">
             <div class="text">
-               <h5 style="font-size:1vw;">Years of experience: 0.5<br> I have used Express JS in the past for many projects with Mongo DB and Node. I use Express for its speed and its simplicity in terms of connecting front to back end</h5>
+               <h5 >Years of experience: 0.5<br> I have used Express JS in the past for many projects with Mongo DB and Node. I use Express for its speed and its simplicity in terms of connecting front to back end</h5>
             </div>
          </div>
       </div>
@@ -55,7 +55,7 @@
          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Font_Awesome_5_brands_github.svg/581px-Font_Awesome_5_brands_github.svg.png" style="width: 22vw; height: 1fr; padding-top: 0.5rem" alt="">
          <div class="overlay">
             <div class="text">
-               <h5 style="font-size:1vw;">Years of experience: 3<br> I use Github for management of both personal and proffesional projects. </h5>
+               <h5 >Years of experience: 3<br> I use Github for management of both personal and proffesional projects. </h5>
             </div>
          </div>
       </div>
@@ -63,7 +63,7 @@
          <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" style="width: 22vw; height: 1fr;" alt="">
          <div class="overlay">
             <div class="text">
-               <h5 style="font-size:1vw;">Years of experience: 0.5<br> I use Docker to containerize my projects, such as my Border Dashboard project</h5>
+               <h5 >Years of experience: 0.5<br> I use Docker to containerize my projects, such as my Border Dashboard project</h5>
             </div>
          </div>
       </div>
@@ -71,7 +71,7 @@
          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" style="width: 22vw; height: 1fr; padding-top: 2rem" alt="">
          <div class="overlay">
             <div class="text">
-               <h5 style="font-size:1vw;">Years of experience: 2<br> I use SCSS all the time, as it makes writing css a lot more fun and easy</h5>
+               <h5 >Years of experience: 2<br> I use SCSS all the time, as it makes writing css a lot more fun and easy</h5>
             </div>
          </div>
       </div>
@@ -84,27 +84,27 @@
       <h1 class="w3-text-white fontMajorProject">Projects I've been developing on</h1>
    </div>
    <div class="gridContainerMajor">
-      <div class=" container item1 backgroundGray" style="height: 40vh">
+      <div class=" heightUnique container item1 backgroundGray" >
          <img src="borderdashboardlogo.png" style="width: 22vw; height: 1fr;padding-top: 2rem" alt="">
          <div class="overlay">
-            <div class="text">
-               <h5 style="font-size:1vw;">BORDER DASHBOARD<br> This project provides a filter for border crossing data, completely made in Vue JS. You can check it out here: <a href="https://borderdashboard.sierrasp.com">Border Dashboard</a></h5>
+            <div class=" uniqueSize text">
+               <h5 >BORDER DASHBOARD<br> This project provides a filter for border crossing data, completely made in Vue JS. You can check it out here: <a href="https://borderdashboard.sierrasp.com">Border Dashboard</a></h5>
             </div>
          </div>
       </div>
-      <div class=" container item2 backgroundGray" style="height: 40vh">
+      <div class=" heightUnique container item2 backgroundGray" >
          <img src="smlogo.png" style="width: 22vw; height: 1fr;padding-top: 1rem" alt="">
          <div class="overlay">
-            <div class="text">
-               <h5 style="font-size:1vw;">SM Photography<br> This was my first project, showcasing my photography. It was programmed in Vanilla JS and HTML/CSS. You can check it out here: <a href="tobeadded">SM Photography</a></h5>
+            <div class=" uniqueSize text">
+               <h5 >SM Photography<br> This was my first project, showcasing my photography. It was programmed in Vanilla JS and HTML/CSS. You can check it out here: <a href="tobeadded">SM Photography</a></h5>
             </div>
          </div>
       </div>
-      <div class=" container item3 backgroundGray" style="height: 40vh">
+      <div class="heightUnique  container item3 backgroundGray" >
          <img src="calendarlogo.png" style="width: 22vw; height: 1fr; padding-top: .5rem" alt="">
          <div class="overlay">
-            <div class="text">
-               <h5 style="font-size:1vw;">CALENDAR<br> Calendar</h5>
+            <div class=" uniqueSize text">
+               <h5 >CALENDAR<br> Calendar</h5>
             </div>
          </div>
       </div>
@@ -126,6 +126,9 @@
    <p class="w3-medium"><a href="https://github.com/smphotography" target="_blank">Github</a></p>
 </footer>
 <style>
+h5{
+  font-size: 1 ;
+}
    .gridContainer{
    display: grid;
    grid-template-rows: repeat(6, 1fr);
@@ -142,12 +145,21 @@
    .majorSizeAbout {
    height: 100vh
    }
+      @media only screen and (min-width: 800px) {
+          .heightUnique {
+            height: 40vh;
+          }
+        }
+
    @media only screen and (max-width: 800px) {
    .majorSizeAbout {
    height: 200vh
    }
    .fontAbout {
-   padding-left: .5rem !important
+   padding-left: .3vh !important
+   }
+   h5{
+     font-size: 1.6vw !important;
    }
    .gridContainer{
    display: grid;
@@ -158,9 +170,7 @@
    height: 60%;
    justify-content: center;
    }
-    .gridContainerMajor{
-     height: 30% !important;
-   }
+
    .darkGray {
    height: 40vh;
    }
@@ -177,9 +187,7 @@
    .fontMajorProject{
      padding-left: 0em;
    }
-   h5{
-     font-size: .5rem  !important
-   }
+
    .fontLanguage {
      padding-left:0em!important
    }
@@ -197,7 +205,9 @@
    height: 140vh ;
    width: 100%;
    }
-
+.uniqueSize{
+  font-size: 1.8vw
+}
    .padding-left-about{
    padding-left: 0em !important
    }
@@ -376,6 +386,7 @@
    overflow: hidden;
    width: 100%;
    height:0;
+
    transition: .5s ease;
    }
    .container:hover .overlay {
@@ -412,7 +423,7 @@
    grid-template-columns: 120px repeat(1, .5fr);
    grid-gap: 15px;
    width: 100%;
-   height: 50%;
+   height: 60% !important;
    }
    }
    .padding-left-about{
