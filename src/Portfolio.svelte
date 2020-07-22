@@ -113,7 +113,7 @@
 <div style="" class="backgroundGray majorSizeAbout w3-padding-64" id="about">
    <h1 class="w3-text-white w3-center fontAbout">About</h1>
    <h4 id="contact" class="w3-text-white w3-center padding-left-about w3-center">I'm Seth Morton, Webstack developer. I started programming 4 years ago, when I couldn't pay the 35$ per month on Wix to create a website showcasing and selling my photography. <br><br> When I started programming, it was frustrating. I hadn't done anything like it before, everything was new to me! <br><br> But I eventually fell in love with it, and the ability to create whatever I could imagine and have the whole world be able to access it immediatety. <br><br>Since then, I have worked on many projects and have gained valuable experience and knowledge. My goal with a website is to make the code as fast and as elegant as possible, and I'm completely open to learning any new language or framework that helps that goal. <br><br> I
-      If you want to hire me or just to talk, <a href="mailto:smphotography39@gmail.com">Contact Me</a>
+      If you want to hire me or just talk, <a href="mailto:smphotography39@gmail.com">Contact Me</a>
    </h4>
 </div>
 <footer class="w3-container w3-padding-64 w3-center w3-opacity w3-light-grey w3-xlarge">
